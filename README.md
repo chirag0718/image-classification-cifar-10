@@ -1,4 +1,8 @@
-Contents
+# CIFAR-10 Image Classification
+
+It aims to build a CNN architecture and improve the performance of the CIFAR-10 dataset, which is a small dataset for image classification.
+
+# Contents (Following things are performed in dataset)
 1. Introduction
 2. Data Preparation and Pre-processing
 3. Algorithm
@@ -11,3 +15,8 @@ Contents
     4.2 Confusion Matrix
 5. Conclusions
 6. Reference List
+
+
+## Author
+Chiragkumar Patel
+
